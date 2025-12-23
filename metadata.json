@@ -1,0 +1,7 @@
+{
+  "name": "VoxNova",
+  "description": "A premium, high-performance TTS platform powered by Gemini AI, featuring professional voice controls, audio history, and multi-language support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
